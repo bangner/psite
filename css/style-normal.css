@@ -1,0 +1,12 @@
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 12pt;
+	}
+
+/* BG */
+
+	#bg {
+		background-size: 750px auto;
+		width: 2250px;
+	}
